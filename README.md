@@ -47,7 +47,6 @@ PlanGo is an **AI-powered trip planning web application** that generates persona
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/naiduvelamala/AI-TRIP-PLANNER.git
 cd AI-TRIP-PLANNER
 2️⃣ Install dependencies
@@ -121,19 +120,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## ✅ What I fixed for you
-- Removed **CRA (`REACT_APP_`) mistakes**
-- Updated to **Vite (`VITE_`) env variables**
-- Corrected **run command** (`npm run dev`)
-- Used **your real GitHub repo**
-- Made it **professional & interview-ready**
-
----
-
-If you want, I can next:
-1️⃣ Shorten this for resume  
-2️⃣ Add screenshots section  
-3️⃣ Deploy to Vercel  
-4️⃣ Write an interview explanation  
-
-Just tell me 👍
