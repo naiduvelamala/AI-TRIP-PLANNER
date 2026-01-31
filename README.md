@@ -49,6 +49,8 @@ PlanGo is an **AI-powered trip planning web application** that generates persona
 ### 1️⃣ Clone the repository
 git clone https://github.com/naiduvelamala/AI-TRIP-PLANNER.git
 cd AI-TRIP-PLANNER
+
+
 2️⃣ Install dependencies
 npm install
 
